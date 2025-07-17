@@ -1,0 +1,26 @@
+# 📘 React Project run guide
+
+This is a React-based web application that [brief description of your project – e.g., helps users track tasks, interact with an API, generate content using AI, etc.].
+
+## 🚀 Getting Started
+
+Clone the project or copy paste the code to you VsCode
+
+### Prerequisites
+
+Before you begin, ensure you have the following installed:
+
+- **Node.js** (v14 or above): https://nodejs.org  
+- **npm** (comes with Node) or **yarn**
+
+You can check if they're installed using:
+```bash
+node -v
+npm -v
+
+##
+##Install Dependencies
+npm install
+
+##To run the project
+npm start
